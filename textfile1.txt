@@ -1,0 +1,2 @@
+Welcome to Push files from git bash console to GitHub repository
+All files should be uploaded into github account
