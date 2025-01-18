@@ -1,0 +1,4 @@
+Hello, welcome to CloudDevOps
+This is the program used for pushing files
+from local repository to github through
+git bash console.
